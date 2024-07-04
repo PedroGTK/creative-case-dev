@@ -17,6 +17,15 @@
       "gender": "Maculino",
       "services": "awdawdaw",
       "created_at": 1518914152087
+    },
+    {
+      "id": 3,
+      "name": "Rafael Fontinele",
+      "avatar_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNDfMN9SxC1N3myZFWORcqCbaxUaUWtl_bag&s",
+      "birth": 706406400000,
+      "gender": "Maculino",
+      "services": "Musculação",
+      "created_at": 1719265318946
     }
   ]
 }
